@@ -35,21 +35,15 @@ The models are compared using:
 
 ## Project Workflow
 
-```text
-Battery Data
-     ↓
-Data Preprocessing
-     ↓
-SOH Calculation
-     ↓
-Data Analysis
-     ↓
-Model Training
-     ↓
-Model Comparison
-     ↓
-SOH Prediction
-```
+1. Battery Data
+2. Data Cleaning
+3. SOH Calculation
+4. Data Analysis
+5. Train-Test Split
+6. Model Training
+7. Prediction
+8. Model Evaluation
+9. Model Comparison
 
 ## Author
 
